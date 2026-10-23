@@ -2,7 +2,7 @@
 
 Founder-engineer. I design, build, ship, and operate products end-to-end — most recently **LumoRead**, a live App Store app I built solo: product, code, cloud infrastructure, content pipeline, and store operations.
 
-📫 erin@lumoread.app · 🌐 [lumoread.sableus.com](https://lumoread.sableus.com)
+📫 ichiawu1901@gmail.com · 🌐 [lumoread.sableus.com](https://lumoread.sableus.com)
 
 ---
 
@@ -47,7 +47,7 @@ World classics and original titles, rewritten at the reader's own level. Built f
 
 LumoRead 創辦人,一人完成產品、前後端、雲端架構、內容管線與 App Store 營運。
 產品已上架 iOS,支援十種介面語言;中英雙語分級閱讀,為「程度與書本不匹配」的讀者而生。
-歡迎交流:erin@lumoread.app
+歡迎交流:ichiawu1901@gmail.com
 
 ---
 
