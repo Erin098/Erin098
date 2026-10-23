@@ -25,11 +25,11 @@ World classics and original titles, rewritten at the reader's own level. Built f
 | Layer | Stack |
 |---|---|
 | App | React Native / Expo (expo-router), TypeScript, i18n ×10 languages |
-| Also fluent in | C/C++ (systems & test tooling), Python, Node.js, SQL |
 | Backend | AWS CDK — Lambda, Aurora Serverless v2 (Data API), API Gateway, DynamoDB metering, SES, Cognito |
 | Content delivery | S3 + CloudFront CDN — new books reach live users with zero app releases |
 | Release ops | EAS Build + OTA updates, App Store Connect API automation, Sentry monitoring with failure sentinels |
 | Growth tooling | Expo push broadcasting, raw-MIME SES campaigns, screenshot-generation pipeline for 10-locale store listings |
+| Also fluent in | C/C++ (systems & test tooling), Python, Node.js, SQL |
 
 > The source is private — it's a live commercial product with a hand-authored catalog — but I'm glad to do a full code walkthrough in an interview, or grant read access on request.
 
