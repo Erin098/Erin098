@@ -25,6 +25,7 @@ World classics and original titles, rewritten at the reader's own level. Built f
 | Layer | Stack |
 |---|---|
 | App | React Native / Expo (expo-router), TypeScript, i18n ×10 languages |
+| Also fluent in | C/C++ (systems & test tooling), Python, Node.js, SQL |
 | Backend | AWS CDK — Lambda, Aurora Serverless v2 (Data API), API Gateway, DynamoDB metering, SES, Cognito |
 | Content delivery | S3 + CloudFront CDN — new books reach live users with zero app releases |
 | Release ops | EAS Build + OTA updates, App Store Connect API automation, Sentry monitoring with failure sentinels |
@@ -40,6 +41,7 @@ World classics and original titles, rewritten at the reader's own level. Built f
 - **Root-causing hard bugs** — the kind that hide behind three layers of silent failure (ask me about the notification pipeline that failed silently across an SDK upgrade, an OTA channel misconfiguration, and a persisted-settings migration — and how I instrumented it so it can never hide again)
 - **Cost-conscious cloud** — serverless-first, metered AI endpoints, a whole production backend that runs on pocket change until users justify more
 - **Multilingual product thinking** — 10 UI languages shipped and maintained as a first-class feature, not an afterthought
+- **Systems-level roots** — years of C/C++ before the web stack, including building test tooling in C for large-scale software validation; comfortable all the way from memory layout to React Native
 
 ## 🇹🇼 中文簡介
 
